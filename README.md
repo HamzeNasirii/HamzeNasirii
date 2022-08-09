@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hamze Nasirii
-- 👀 I’m interested in ...
+- 👀 I’m interested in Django & mongoDB and medical informatics
 - 🌱 I’m currently learning Django and mongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Hamze_nasirii@yahoo.com
